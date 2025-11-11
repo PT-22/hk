@@ -20,6 +20,7 @@ table {border-collapse: collapse; margin: 1em 0; table-layout: fixed; width: 100
 th, td {border: thin solid #cad5e2; padding: 0.2em 0.5em; vertical-align: top;}
 
 .col2 {columns: 2;}
+.footer {font-size: small; text-align: center;}
 .hang {margin: 1em 0;} .hang p {margin: 0; padding: 0 0 0 1em; text-indent: -1em;}
 .top {float: right;} .top a {text-decoration: none;}
 
