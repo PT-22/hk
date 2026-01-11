@@ -16,6 +16,8 @@ a:hover, a:active {color: #c70036;} /*rose700*/
 
 figure {margin: 1em 0;} figcaption {font-size: small; text-align: center;}
 
+hr {margin: 1em 0;}
+
 table {border-collapse: collapse; margin: 1em 0; table-layout: fixed; width: 100%;}
 th, td {border: thin solid #cad5e2; padding: 0.2em 0.5em; vertical-align: top;} /*slate300*/
 
