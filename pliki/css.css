@@ -21,8 +21,6 @@ hr {margin: 1em 0;}
 table {border-collapse: collapse; margin: 1em 0; table-layout: fixed; width: 100%;}
 th, td {border: thin solid #cad5e2; padding: 0.2em 0.5em; vertical-align: top;} /*slate300*/
 
-ul {padding-left: 2em;}
-
 .breadcrumbs, .flatlist {list-style: none; padding: 0;}
 .breadcrumbs li, .flatlist li {display: inline;}
 .breadcrumbs li+li:before {content: " › ";}
